@@ -159,5 +159,8 @@ Public key is right after the signature.
 
 ```
 41 # public key length 0x41 (65) bytes (Uncompressed, compressed key is 33 bytes)
-  0484ecc0d46f1918b30928fa0e4ed99f16a0fb4fde0735e7ade8416ab9fe423cc5412336376789d172787ec3457eee41c04f4938de5cc17b4a10fa336a8d752adf # public key string
+  0484ecc0d46f1918b30928fa0e4ed99f16a
+  0fb4fde0735e7ade8416ab9fe423cc54123
+  36376789d172787ec3457eee41c04f4938d
+  e5cc17b4a10fa336a8d752adf # public key string
 ```
