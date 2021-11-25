@@ -79,8 +79,8 @@ Truffle Console will wrap up a lot of things.
 ### Bugs:
 
 - JSON Error: Truffle migrate might cause `SyntaxError: Unexpected end of JSON input`. This is caused by corrputed `build/contract`
-
 - How to deploy one address after another: https://ethereum.stackexchange.com/questions/18432/truffle-migrate-fails
+- Old truffle _version_ might cause `web3.eth.getAccounts()` not return promise, it requires a callback, be careful, it takes me a lot of time to figure it out
 
 ### Web3
 
